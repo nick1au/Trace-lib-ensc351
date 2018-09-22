@@ -1,3 +1,0 @@
-[ { "name" : "name","cat":"cat","ph":"B","pid":"1","tid":"1","ts":"-842150451" }
-{ "name" : "name","cat":"cat","ph":"E","pid":"1","tid":"1","ts":"-842150451" }
-]
